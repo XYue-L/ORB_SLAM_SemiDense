@@ -1,0 +1,8 @@
+/home/hana/ORB_SLAM2-master/build/CMakeFiles/ORB_SLAM2.dir
+/home/hana/ORB_SLAM2-master/build/CMakeFiles/bin_vocabulary.dir
+/home/hana/ORB_SLAM2-master/build/CMakeFiles/mono_hyj.dir
+/home/hana/ORB_SLAM2-master/build/CMakeFiles/mono_kitti.dir
+/home/hana/ORB_SLAM2-master/build/CMakeFiles/mono_semidense.dir
+/home/hana/ORB_SLAM2-master/build/CMakeFiles/mono_tum.dir
+/home/hana/ORB_SLAM2-master/build/CMakeFiles/rgbd_tum.dir
+/home/hana/ORB_SLAM2-master/build/CMakeFiles/stereo_kitti.dir
